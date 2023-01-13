@@ -1,0 +1,21 @@
+{
+   "non_closed": [
+      {
+         "line": 0,
+         "column": 0,
+         "scrollX": 0,
+         "scrollY": 0,
+         "textSize": 45.000450134277344,
+         "uri": "file:\/storage\/emulated\/0\/Android\/data\/com.tiecode.develop\/files\/projects\/触摸事件\/app\/src\/main\/res\/layout\/main.xml"
+      },
+      {
+         "line": 32,
+         "column": 16,
+         "scrollX": 0,
+         "scrollY": 0,
+         "textSize": 45.000450134277344,
+         "uri": "file:\/storage\/emulated\/0\/Android\/data\/com.tiecode.develop\/files\/projects\/触摸事件\/app\/src\/main\/java\/com\/user\/app\/MainActivity.java"
+      }
+   ],
+   "last_uri": "file:\/storage\/emulated\/0\/Android\/data\/com.tiecode.develop\/files\/projects\/触摸事件\/app\/src\/main\/java\/com\/user\/app\/MainActivity.java"
+}
